@@ -1,0 +1,2 @@
+class ModelfyException(Exception):
+    pass
